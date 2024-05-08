@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,600;1,600&display=swap');
+.navbar {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+
+.logo img {
+    width: 70px;
+    height: auto;
+}
+
+.offcanvas {
+    width: 250px;
+}
+
+.nav-pills .nav-link.active {
+    color: rgb(255, 255, 255);
+    background-color: #C73659; 
+}
+
+.body {
+    height: 2000px;
+}
